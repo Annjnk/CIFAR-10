@@ -102,7 +102,7 @@ plt.legend()
 plt.show()
 ```
 ![Accuracy Plot](images/accuracy_plot.png)
-![Loss Plot](images/loss_plot.png.png)
+![Loss Plot](images/loss_plot.png)
 
 ## 🖼️ Visual Samples
 Example CIFAR-10 images (32×32 color):
