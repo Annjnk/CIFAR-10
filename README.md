@@ -101,6 +101,8 @@ plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
 plt.legend()
 plt.show()
 ```
+![Accuracy Plot](images/accuracy_plot.png)
+![Loss Plot](images/loss_plot.png.png)
 
 ## 🖼️ Visual Samples
 Example CIFAR-10 images (32×32 color):
@@ -109,6 +111,12 @@ Example CIFAR-10 images (32×32 color):
 🐦 Bird
 🐱 Cat
 🐸 Frog
+![Sample Airplane](images/sample_airplane.png)
+![Sample Automoile](images/sample_automobile.png)
+![Sample Bird](images/sample_bird.png)
+![Sample Cat](images/sample_cat.png)
+![Sample Frog](images/sample_frog.png)
+
 
 These samples illustrate the dataset’s diversity and the challenge of distinguishing small, low-resolution images.
 
